@@ -1,4 +1,7 @@
-# Selfinity_AI
+# Selfinity_AI: Personal Database
+<img width="800" alt="Screenshot 2023-11-19 at 6 39 56 AM" src="https://github.com/its-yulin/Selfinity_AI/assets/79822409/dffe7486-2196-42f4-ad0b-0b23b5a73be1">
+<img width="800" alt="Screenshot 2023-11-19 at 7 24 56 AM" src="https://github.com/its-yulin/Selfinity_AI/assets/79822409/38b53e57-8853-4f96-ad8d-3268992c7037">
+
 ## 💡 Inspiration
 Our project was inspired by a critical realization that resonated in both our personal and professional realms – the challenge of efficiently managing and accessing data. 
 
